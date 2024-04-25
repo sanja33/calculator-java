@@ -11,7 +11,6 @@ C=E-N+2=40-34+2=4 Ciklomatska složenost iznosi 4.
 Kognitivnu slozenost, možemo primetiti da metoda evaluateExpression ima nekoliko grananja i petlji koje bi mogle otežati čitanje i razumevanje koda. Metoda Calculate ima mnogo grananja, što takođe može povećati kognitivnu složenost.
 
 Statička analiza:
-	Calculator.java:
 
 Linije 12-16: Statički finalni simboli su dobro definisani i koriste se konvencionalno.
 
