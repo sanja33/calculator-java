@@ -13,9 +13,7 @@ Kognitivnu slozenost, možemo primetiti da metoda evaluateExpression ima nekolik
 Statička analiza:
 
 Linije 12-16: Statički finalni simboli su dobro definisani i koriste se konvencionalno.
-
 Linije 28-58: Metoda evaluateExpression ima dugačak blok koda koji bi mogao biti refaktorisan u manje metode radi bolje čitljivosti i održavanja.
-
 Linije 60-86: Metoda Calculate takođe ima dugačak blok koda koji bi mogao biti refaktorisan na sličan način.
 
 Postoji potencijal za dodavanje komentara radi boljeg objašnjenja složenih delova logike.
